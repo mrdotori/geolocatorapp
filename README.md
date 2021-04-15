@@ -2,8 +2,10 @@
 
 Get Weather using geolocator that A new Flutter project.
 
-이 앱은 
+이 앱은 아래 주소 
 - [Let’s create the simplest weather app with flutter.](https://medium.com/@timbergus/lets-create-the-simplest-weather-app-with-flutter-eb4bc3da20c9)
+
+를 참조로 업데이트 되었습니다.
 
 ## Getting Started
 
