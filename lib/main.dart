@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Future<String> getData(double latitude, double longitude) async {
     String api = 'http://api.openweathermap.org/data/2.5/forecast';
-    String appId = '54f3bc65289f73ba37aa18bfb39beb4f';
+    String appId = '';
 
     String url = '$api?lat=$latitude&lon=$longitude&APPID=$appId';
 

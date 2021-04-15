@@ -1,6 +1,9 @@
-# geolocator
+# geolocatorapp
 
-A new Flutter project.
+Get Weather using geolocator that A new Flutter project.
+
+이 앱은 
+- [Let’s create the simplest weather app with flutter.](https://medium.com/@timbergus/lets-create-the-simplest-weather-app-with-flutter-eb4bc3da20c9)
 
 ## Getting Started
 
